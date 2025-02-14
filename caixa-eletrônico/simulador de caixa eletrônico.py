@@ -23,5 +23,6 @@ while True:
     total_cedulas = 0
     if total == 0:
       break
-print('Programa Encerrado')
+print('Programa Finalizado!')
+print('Volte sempre')
 
